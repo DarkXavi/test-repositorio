@@ -5,6 +5,6 @@ segundo_apellido = input("Ingrese su segundo apellido:")
 
 year = int(input("Ingrese su año de nacimiento:"))
 
-print("Calculo tu edad")
+print("Calculadora de edad")
 print(f"Nombre Completo: {nombre + " " + segundo_nombre + " " + primer_apellido + " " + segundo_apellido},  
       Edad: {2024-year}")
